@@ -1,0 +1,8 @@
+  .env
+  *.pyc
+  __pycache__/
+  .DS_Store
+  *.parquet
+  credentials.json
+  config_local.py
+  .ipynb_checkpoints/
